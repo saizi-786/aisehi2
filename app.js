@@ -33,3 +33,4 @@ console.log(obj);
 delete obj.m;
 
 console.log(obj);
+console.log('Faisal')
